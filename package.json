@@ -1,0 +1,23 @@
+{
+  "name": "ghlint-plugin-example",
+  "version": "0.1.0",
+  "description": "The example of gh-lint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MailOnline/ghlint-plugin-example.git"
+  },
+  "keywords": [
+    "gh-lint",
+    "plugin"
+  ],
+  "author": "Evgeny Poberezkin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MailOnline/ghlint-plugin-example/issues"
+  },
+  "homepage": "https://github.com/MailOnline/ghlint-plugin-example#readme"
+}

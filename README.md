@@ -1,2 +1,2 @@
-# ghlint-plugin-template
-Template for gh-lint plugin
+# ghlint-plugin-example
+The example of gh-lint plugin
